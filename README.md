@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClareMakaa
-- 👀 I’m interested in Python, Networking, Telecommunications and Engineering
-- 🌱 I’m currently learning Telecommunications and Infromation Engineering and Software Development
-- 💞️ I’m looking to collaborate on networking and programming projects
+- 👀 I’m interested in Web Development {HTML, CSS, Javascript}
+- 🌱 I’m currently learning Software Development with a specialization in Web Development at PLP Africa
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me on LindkedIn as Clare Mueni Makaa
 
 <!---
